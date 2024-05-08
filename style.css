@@ -1,0 +1,73 @@
+*{
+    justify-content: center;
+}
+
+#formu form{
+    display: grid;
+}
+
+#d1{
+    display: grid;
+}
+
+#dd{
+    display: flex;
+}
+
+#d2{
+    display: grid;
+}
+
+#d3{
+    display: grid;
+}
+
+#sss{
+    display: flex;
+}
+
+#d0{
+    display: flex;
+}
+
+#t1{
+    background-color: rgb(0, 159, 207);
+    padding-left: 30px;
+    margin-right: 5px;
+}
+
+#blu{
+    background-color: blue;
+    color: blue;
+}
+
+#lab{
+    display: grid;
+    margin-right: 10px;
+    padding-left: 5px;
+}
+
+#d{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+#d1 input{
+    width: 200px;
+}
+
+#d4{
+    
+    padding: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#d5{
+    text-align: center;
+}
+#d6{
+    text-align: center;
+    padding-right: 230px;
+}
